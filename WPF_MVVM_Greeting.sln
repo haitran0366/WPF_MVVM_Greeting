@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MVVM_Greeting", "WPF_MVVM_Greeting.csproj", "{404B4FDD-75B4-4CBF-87BB-7BB675EE0976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404B4FDD-75B4-4CBF-87BB-7BB675EE0976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404B4FDD-75B4-4CBF-87BB-7BB675EE0976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404B4FDD-75B4-4CBF-87BB-7BB675EE0976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404B4FDD-75B4-4CBF-87BB-7BB675EE0976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16C40DCB-72EB-40EF-B471-0EFF082DAD10}
+	EndGlobalSection
+EndGlobal
